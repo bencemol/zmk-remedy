@@ -1,7 +1,7 @@
 include:
   - board: nice_nano_v2
-    shield: dilemma_left
+    shield: remedy_left
   - board: nice_nano_v2
-    shield: dilemma_right
+    shield: remedy_right
   # - board: nice_nano_v2
   #   shield: settings_reset

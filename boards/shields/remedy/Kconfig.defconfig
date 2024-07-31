@@ -1,21 +1,21 @@
-if SHIELD_DILEMMA_LEFT
+if SHIELD_REMEDY_LEFT
 
 config ZMK_KEYBOARD_NAME
-	default "Dilemma"
+	default "Remedy"
 
 config ZMK_SPLIT_ROLE_CENTRAL
 	default y
 
 endif
 
-if SHIELD_DILEMMA_RIGHT
+if SHIELD_REMEDY_RIGHT
 
 config ZMK_KEYBOARD_NAME
-	default "Dilemma Right"
+	default "Remedy Right"
 
 endif
 
-if SHIELD_DILEMMA_LEFT || SHIELD_DILEMMA_RIGHT
+if SHIELD_REMEDY_LEFT || SHIELD_REMEDY_RIGHT
 
 config ZMK_SPLIT
 	default y

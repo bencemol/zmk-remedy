@@ -4,4 +4,4 @@
 
 ### [Dilemma](https://bastardkb.com/dilemma/) by bastard keyboards
 
-![Dilemma Miryoku layout](docs/dilemma.svg)
+![Remedy Miryoku layout](docs/remedy.svg)

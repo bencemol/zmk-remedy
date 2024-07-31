@@ -1,4 +1,4 @@
-#include "dilemma.dtsi"
+#include "remedy.dtsi"
 
 &default_transform {
 	  col-offset = <5>;
